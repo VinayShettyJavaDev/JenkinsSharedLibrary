@@ -1,18 +1,18 @@
 // calculator.groovy
 
-def add(int a, int b) {
-    return a + b
+def add(int first, int second) {
+    return first + second
 }
 
-def subtract(int a, int b) {
-    return a - b
+def subtract(int first, int second) {
+    return first - second
 }
 
-def multiply(int a, int b) {
-    return a * b
+def multiply(int first, int second) {
+    return first * second
 }
 
-def divide(int a, int b) {
-    return a / b
+def divide(int first, int second) {
+    return first / second
 }
 
